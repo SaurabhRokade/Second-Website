@@ -1,0 +1,125 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family:'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin-top: 0%;
+
+}
+
+header{
+    background-color: white;
+}
+body{
+    /* padding: 20px 10px;  */
+    height: 90vh;
+    width: 100vw;
+    /* background-color: #FEFAE3; */
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-content: center;
+}
+li{
+    /* color: black; */
+    list-style: none;
+    cursor: pointer;
+    font-weight: 700%;
+}
+a{
+    color: black;
+        text-decoration: none;
+
+}
+button{
+    background-color: #267ad4;
+    padding: 4px 10px;
+    cursor: pointer;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: 550;
+    width: fit-content;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+nav{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    height: 90px;
+    /* padding: auto; */
+}
+nav .logo{
+    font-weight: 0px;
+    font-size: 10px;
+    height: 45px;
+
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    font-weight: 800;
+    
+}
+nav ul li:hover{
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+.search-field{
+    display: flex;
+    gap: 30px;
+
+}
+.hero-section{
+    padding: auto;
+    display:flex;
+    align-items: center; 
+    /* justify-content:centre;  */
+    gap: 0px;
+    padding: px;
+    justify-content: space-around;
+}
+.hero-left-section h1{
+    font-size: 50px;
+    margin-bottom: px;
+    font-weight: 700;
+}
+.hero-left-section h1 span{
+    color: #267ad4;
+    
+    font-weight: 900;
+    font-size:3.5 rem 
+}
+.hero-left-section p {
+    font-weight: 500;
+}
+.hero-right-section {
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
+}
+.hero-left-section-botton {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.hero-right-section img{ 
+    height: 500px;
+    padding-top: 20px;
+    width: 500px;
+    border-radius: 0%;
+}
+
+ */
